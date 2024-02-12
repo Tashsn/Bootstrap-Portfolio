@@ -1,0 +1,90 @@
+* {
+    box-sizing: border-box !important;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+    line-height: 1.5;
+    background-color: rgb(248, 248, 231);
+  }
+  
+
+
+     
+    /*Style Navbar*/
+
+  .navbar{
+    background-color: rgb(143, 143, 132) !important;
+    color: rgb(18, 20, 20) !important;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  .navbar a{
+    color:rgb(62, 68, 60) !important;
+  }
+  
+
+
+    /*Style Jumbotron*/
+
+  .p-5{
+    background-color: rgb(22, 21, 21)!important;
+    color: rgb(183, 197, 177);
+  }
+
+  
+
+  .rowfeaturette h2 p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .lead{
+  
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  h1{
+    margin: 10px 10px;
+  }
+
+  
+  .row{
+    margin-top: 25px;
+    margin-bottom: 40px;
+  }
+   
+
+  /* Style Footer */
+
+  .footer-image{
+    position: relative;
+    float: right;
+    bottom: 175px;
+  }
+
+ 
+  .footer{
+    text-align: center;
+    margin-top: 30px;
+    padding: 5px;
+    
+    
+
+ }
+   
+.icons{
+  text-align: center;
+}
+
+
+.fa-github{
+  margin-left: 32%;
+}
+
+.fa-linkedin-square{
+  margin-right: 17%;
+}
